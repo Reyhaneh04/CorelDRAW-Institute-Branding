@@ -22,19 +22,20 @@ The project includes flyer designs and corporate stationery designs developed as
 
 ### Stationery Design 1
 
-![Stationery 1](./%D8%||||%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set1.jpg)
+![Stationery 1](./%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set1.jpg)
 
 ### Stationery Design 2
 
-![Stationery 2](./%D8%||||%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set2.jpg)
+![Stationery 2](./%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set2.jpg)
 
 ### Stationery Design 3
 
-![Stationery 3](./%D8%||||%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set3.jpg)
+![Stationery 3](./%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set3.jpg)
 
 ### Stationery Design 4
 
-![Stationery 4](./%D8%||||%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set4.jpg)
+![Stationery 4](./%D8%B3%D8%AA%20%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/set4.jpg)
+
 
 ## Source Files
 
